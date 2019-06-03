@@ -1,0 +1,1 @@
+'''Un empresario necesita calcular de manera automatica el IVA cuando realiza una venta '''

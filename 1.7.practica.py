@@ -1,0 +1,1 @@
+'''Solicite al usuario escribir un nombre y despues muestrelo '''
