@@ -1,10 +1,5 @@
+import suma, resta, multiplicacion
 
-from flask import Flask
-app = Flask(__name__)
-
-@app.route('/')
-def hola_mundo():
-    return " Hola mundo "
-
-if __name__=='__main__':
-    app.run(host='0.0.0.0')
+print (suma.suma(10,1))
+print (resta.resta(10,1))
+print (multiplicacion.multiplicacion(10,1))
