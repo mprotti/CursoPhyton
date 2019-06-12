@@ -1,0 +1,4 @@
+1;Carlos;Perez;05/01/1989
+2;Manuel;Heredia;25/12/1973
+3;Rosa;Campos;12/06/1961
+3;David;Garcia;25/07/2006
